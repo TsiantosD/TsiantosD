@@ -1,4 +1,1 @@
-### Hi there 👋
-
-[![TsiantosD's GitHub stats](https://github-readme-stats-tsiantosds-projects.vercel.app/api?username=TsiantosD)](https://github.com/TsiantosD/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TsiantosD)](https://git.io/streak-stats)
