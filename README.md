@@ -15,14 +15,14 @@
   <a href="https://github.com/TsiantosD"><strong>GitHub</strong></a>
 </p>
 
-<div style="display: flex;">
+<!-- <div style="display: flex;">
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsiantosD&theme=github_dark" alt="GitHub statistics for TsiantosD" />
   </p>
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TsiantosD&theme=github_dark" alt="GitHub contribution summary for TsiantosD" />
   </p>
-</div>
+</div> -->
 
 ## Table of Contents
 
